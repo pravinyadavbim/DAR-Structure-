@@ -1,0 +1,8 @@
+title:
+  ru: Очистить
+  fr_fr: Nettoyage
+  en_us: Clean
+layout:
+  - Clean Selected Families
+  - Clean Unused Filters
+  - Clean Unused View Templates
