@@ -1,0 +1,51 @@
+# General Guideline
+# Leave 2 line spaces after every section
+# Leave 1 Line Space after every line to display items in a new line
+
+title: "R Coloring"
+
+# context:
+#   - Walls
+#   - Text Notes
+
+tooltip:   
+  en_us: >-
+    Version   =   0.1.0
+
+    Date       =   16.09.2024
+
+    ________________________________________________________________
+    
+    
+    Description:
+
+
+    Creates a new workshared document using the DAR template.
+
+    _______________________________________________________________
+
+    
+    How-To:
+
+
+    1. Specify the save location for the Revit file on your drive.
+    2. Enter the desired name for the new Revit file.
+
+    ________________________________________________________________
+    
+    
+    Changelog:
+
+
+    - [16.09.2024] v0.1.0 Initiate Project
+
+    - [16.08.2024] v0.x.x Early Development
+
+    ________________________________________________________________
+
+# highlight: new
+# highlight: updated
+
+help_url: "https://pystr-tools-documentation.gitbook.io/pystr-tools-documentation/"
+
+author: Pravin Yadav

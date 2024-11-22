@@ -1,0 +1,56 @@
+# General Guideline
+# Leave 2 line spaces after every section
+# Leave 1 Line Space after every line to display items in a new line
+
+title: "Phaser"
+
+# context:
+#   - Walls
+#   - Text Notes
+
+tooltip:   
+  en_us: >-
+    Version   =   0.1.0
+    
+    Date       =   20.09.2024
+
+    ________________________________________________________________
+    
+    
+    Description:
+
+
+    Applies selected phases to the Phase Created / Phase Demolished parameters.
+
+    ________________________________________________________________
+    
+    
+    How-To:
+
+
+    1. Pre - Select Elements before running the tool.
+
+    2. Choose between Phase Created or Phase Demolished
+
+    3. Select phase to update the elements to.
+
+    ________________________________________________________________
+    
+    
+    Changelog:
+    
+    
+    - [20.09.2024] v0.1.0 Updates Phases
+
+    - [17.09.2024] v0.x.x Early Development
+    
+    ________________________________________________________________
+
+
+help_url: "https://dar-pune.gitbook.io/pyarch-tools-documentation/doors/room-data-checks"
+
+author: Prajwal B Kumar
+
+# authors:
+#   - John Doe
+#   - Jane Doe

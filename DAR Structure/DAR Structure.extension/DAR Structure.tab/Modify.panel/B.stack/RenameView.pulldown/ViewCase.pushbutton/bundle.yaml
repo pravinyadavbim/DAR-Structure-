@@ -1,0 +1,15 @@
+title:
+  ru: |-
+    Переименовать выделенные виды
+  fr_fr: |-
+    Renommer les vues sélectionnées
+  en_us: |-
+    ViewCase
+tooltip:
+  ru: |-
+    Изменяет наименование выделенных видов.
+  fr_fr: |-
+    Changer le nom des vues sélectionnées
+  en_us: |-
+    Changes the selected view names
+

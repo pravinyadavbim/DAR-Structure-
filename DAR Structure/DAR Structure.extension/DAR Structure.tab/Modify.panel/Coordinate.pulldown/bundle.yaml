@@ -1,0 +1,7 @@
+title:
+  ru: Очистить
+  fr_fr: Nettoyage
+  en_us: Coordinate
+layout:
+  - Coordinate
+  - ReNumber
