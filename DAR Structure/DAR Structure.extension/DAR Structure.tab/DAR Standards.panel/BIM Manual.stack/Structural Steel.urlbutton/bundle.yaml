@@ -1,0 +1,33 @@
+# General Guideline
+# Leave 2 line spaces after every section
+# Leave 1 Line Space after every line to display items in a new line
+
+title: Structural Steel
+       
+# context:
+#   - Walls
+#   - Text Notes
+
+tooltip:   
+  en_us: >-
+    Version   =   1.0.0
+    
+    Date       =   16.08.2024
+
+    ________________________________________________________________
+    
+    
+    Description:
+
+
+    Opens DAR BIM Manual
+
+    ________________________________________________________________
+    
+
+# highlight: new
+# highlight: updated
+
+hyperlink: https://insidar22.dar.com/sites/BIM-DP-Portal/SitePages/Cheat-Sheet-Structural-Steel.aspx
+
+author: Pravin Yadav

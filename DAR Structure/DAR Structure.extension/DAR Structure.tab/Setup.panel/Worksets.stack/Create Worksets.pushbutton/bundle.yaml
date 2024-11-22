@@ -1,0 +1,53 @@
+# General Guideline
+# Leave 2 line spaces after every section
+# Leave 1 Line Space after every line to display items in a new line
+
+title: "Create Worksets"
+
+# context:
+#   - Walls
+#   - Text Notes
+
+tooltip:   
+  en_us: >-
+    Version   =   1.0.0
+    
+    Date       =   16.09.2024
+
+    ________________________________________________________________
+    
+    
+    Description:
+
+
+    Creates new worksets based on the departments.
+
+    ________________________________________________________________
+    
+    
+    How-To:
+
+
+    1. Select the department.
+
+    ________________________________________________________________
+    
+    
+    Changelog:
+    
+    
+    - [16.09.2024] v1.0.0 Create Worksets
+
+    - [25.07.2024] v0.x.x Early Development
+    
+    ________________________________________________________________
+
+# highlight: new
+# highlight: updated
+
+help_url: ""
+
+# author: Full Name
+
+authors:
+  - BIM Support 

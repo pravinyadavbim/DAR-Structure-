@@ -1,0 +1,55 @@
+# General Guideline
+# Leave 2 line spaces after every section
+# Leave 1 Line Space after every line to display items in a new line
+
+title: "Insert Worksets"
+
+context:
+  - doc-workshared 
+
+tooltip:   
+  en_us: >-
+    Version   =   1.0.0
+    
+    Date       =   16.09.2024
+
+    ________________________________________________________________
+    
+    
+    Description:
+
+
+    Adds new worksets one by one.
+
+    Needs the Model to be a Workshared Model.
+
+    ________________________________________________________________
+    
+    
+    How-To:
+
+
+    1. Enter the name of the workset to be inserted.
+
+    ________________________________________________________________
+    
+    
+    Changelog:
+    
+    
+    - [16.09.2024] v1.0.0 Insert Worksets
+
+    - [25.07.2024] v0.x.x Early Development
+    
+    ________________________________________________________________
+
+# highlight: new
+# highlight: updated
+
+help_url: "https://app.gitbook.com/o/d20lMPIyOkqAbiHDJcUZ/s/DsCBf7o3TpobJAauu1tt/initialization/custom-worksets"
+
+author: Astle James
+
+# authors:
+#   - John Doe
+#   - Jane Doe

@@ -1,0 +1,52 @@
+# General Guideline
+# Leave 2 line spaces after every section
+# Leave 1 Line Space after every line to display items in a new line
+
+title: "URS Checker"
+
+# context:
+#   - Walls
+#   - Text Notes
+
+tooltip:   
+  en_us: >-
+    Version   =   0.1.0
+    
+    Date       =   20.09.2024
+
+    ________________________________________________________________
+    
+    
+    Description:
+
+
+    Checks for inconsistencies in model datum items like grids, levels, and shared site location against the URS file.
+
+    ________________________________________________________________
+    
+    
+    How-To:
+
+
+    1. Select the linked URS file when prompted.
+
+    ________________________________________________________________
+    
+    
+    Changelog:
+    
+    
+    - [20.09.2024] v0.1.0 Added Project Base Point Parameters
+
+    - [02.08.2024] v0.x.x Early Development
+    
+    ________________________________________________________________
+
+
+help_url: "https://dar-pune.gitbook.io/pyarch-tools-documentation/model-validation/urs-validator"
+
+# author: Prajwal B Kumar
+
+authors:
+  - Prakriti Srimal
+  - Prajwal B Kumar

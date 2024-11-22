@@ -1,0 +1,55 @@
+# General Guideline
+# Leave 2 line spaces after every section
+# Leave 1 Line Space after every line to display items in a new line
+
+title: "Assign Worksets"
+
+context:
+  - doc-workshared 
+
+tooltip:   
+  en_us: >-
+    Version   =   0.1.0
+    
+    Date       =   16.09.2024
+
+    ________________________________________________________________
+    
+    
+    Description:
+
+
+    Assigns elements to their correct worksets.
+
+    Needs the Model to be a Workshared Model.
+
+    ________________________________________________________________
+    
+    
+    How-To:
+
+
+    1. Choose the model categories (you can select multiple categories)
+
+    ________________________________________________________________
+    
+    
+    Changelog:
+    
+
+    - [16.09.2024] v0.1.0  Assign Multiple Categories
+
+    - [22.08.2024] v0.x.x  Early Development
+
+    ________________________________________________________________
+
+# highlight: new
+# highlight: updated
+
+help_url: "https://dar-pune.gitbook.io/pyarch-tools-documentation/initialization/assign-worksets"
+
+# author: Full Name
+
+authors:
+  - Prakriti Srimal
+  - Astle James
